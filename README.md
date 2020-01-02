@@ -1,1 +1,1 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) ![Language](https://img.shields.io/badge/language-Java%20%2F%-blue.svg) 
+# [LeetCode](https://leetcode.com/problemset/algorithms/) [![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)](LICENSE.md) ![Language](https://img.shields.io/badge/language-Java%20%2F%2F-blue.svg) 
