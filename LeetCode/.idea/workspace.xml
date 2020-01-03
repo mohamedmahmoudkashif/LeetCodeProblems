@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1658" />
-    <option name="height" value="959" />
+    <option name="width" value="1680" />
+    <option name="height" value="973" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="masterDetails">
     <states>
