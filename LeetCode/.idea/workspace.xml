@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81aea12f-a453-4a63-8588-ed0860b06f01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_922.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,11 +67,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/_941.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="421">
               <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/_922.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/_989.java" />
         <option value="$PROJECT_DIR$/src/_509.java" />
         <option value="$PROJECT_DIR$/src/_941.java" />
+        <option value="$PROJECT_DIR$/src/_922.java" />
       </list>
     </option>
   </component>
@@ -150,7 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._941">
+  <component name="RunManager" selected="Application._922">
     <configuration name="_1029" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1029" />
       <module name="LeetCode" />
@@ -160,6 +173,13 @@
     </configuration>
     <configuration name="_1047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_1047" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_922" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_922" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -181,6 +201,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._922" />
         <item itemvalue="Application._941" />
         <item itemvalue="Application._989" />
         <item itemvalue="Application._1029" />
@@ -238,6 +259,18 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_922.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/DuplicateZeros.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -282,6 +315,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="421">
           <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_922.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
