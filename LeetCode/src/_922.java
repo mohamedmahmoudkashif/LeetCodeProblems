@@ -2,8 +2,8 @@ public class _922 {
     public static int[] sortArrayByParityII(int[] A) {
         int j = 1;
         for (int i = 0; i < A.length; i += 2)
-            if (A[i] % 2 == 1) {
-                while (A[j] % 2 == 1)
+            if (A[i] % 2 == 0) {
+                while (A[j] % 2 == 0)
                     j += 2;
 
                 // Swap A[i] and A[j]
